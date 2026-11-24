@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the aim of Experiment 4 and which command-line tool does it use?",
+    "ground_truth": "The aim is to explore the system's energy consumption and power management features using the Windows command-line tool PowerCfg, by building an automated Python diagnostic suite."
+  },
+  {
+    "question": "Where is the Eiffel Tower located, when was it built, and how tall is it?",
+    "ground_truth": "The Eiffel Tower is located in Paris, France, was built in 1889, and stands 330 meters tall."
+  },
+  {
+    "question": "What is the title of the IoT research paper in iot 6.pdf?",
+    "ground_truth": "The paper is titled Context-Aware Proactive 5G Load Balancing and Optimization for Urban Areas."
+  },
+  {
+    "question": "Who are the authors of the IoT research paper in iot 6.pdf?",
+    "ground_truth": "The authors are Bo Ma, Bowei Yang, Yunpeng Zhu, and Jie Zhang."
+  }
+]
